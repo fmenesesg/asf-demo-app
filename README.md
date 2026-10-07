@@ -13,5 +13,5 @@ Then `GET http://localhost:8080/hello` → `Hello from ASF`.
 
 ## Provenance
 
-- run_id: `issue-1-live-407099-resume`
-- issue: https://github.com/fmenesesg/asf-demo-app/issues/1
+- run_id: `issue-6-88c67402-resume`
+- issue: https://github.com/fmenesesg/asf-demo-app/issues/6
